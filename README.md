@@ -1,3 +1,11 @@
+To test the application, open the folder in a code editor like Vscode and type the following commands in the terminal.
+
+1. npm i
+2. cd vite-project
+3. npm run dev
+
+4. Open your browser and enter the URL "http://localhost:5173/"
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

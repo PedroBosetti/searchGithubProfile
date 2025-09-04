@@ -1,0 +1,46 @@
+#resposta {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 65%;
+    height: 40%;
+    gap: 5%;
+    border-radius: 20px;
+    background-color: white;
+    padding: 1% 2% 1% 1%;
+}
+
+#mensagem-de-erro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    height: 20%;
+    border-radius: 20px;
+    padding: 1% 1% 1% 1%;
+    background-color: white;
+    color: red;
+}
+#mensagem-de-erro h2 {
+    margin: 1%;
+}
+
+#foto-do-usuario {
+    width: 20%;
+    border-radius: 100%;
+    margin: 0% 0% 0% 5%;
+    border-width: 2%;
+    border-style: solid;
+    border-color: dodgerblue;
+}
+
+#nome {
+    color: dodgerblue;
+    font-size: 2rem;
+}
+
+#bio {
+    color: black;
+    font-size: 1.2rem
+}
